@@ -18,12 +18,12 @@ body {
   font-family: "EB Garamond", serif;
   font-size: 30px;
   border: 5px solid #DE4545;
-  padding-bottom: 1700px;
+  padding-bottom: 600px;
   
 }
 
 .menu {
-  width: 40%;
+  width: 50%;
   margin: 0 auto;
   border: 5px, #DE4545;
   text-align: center;
@@ -38,6 +38,7 @@ ol {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  gap: 50px;
+  text-align: left;
+  gap: 55px;
   
 }
