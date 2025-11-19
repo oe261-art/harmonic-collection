@@ -3,16 +3,16 @@
 
 body {
   margin: 50px; 
-  color: #DE4545;
+  color: #d54d4d;
   font-family: "EB Garamond", serif;
   font-size: 30px;
-  border: 5px solid #DE4545;
+  border: 5px solid #d54d4d;
   padding-bottom: 1700px; 
 }
 
 
 .item {
-  background-color: #DE4545;
+  background-color: #d54d4d;
   padding-top: 5px;
   padding-bottom: 60px;
   text-align: center;
@@ -24,17 +24,17 @@ body {
 .description {
   width: 800px;
   height: 200px;
-  border: 5px, #DE4545;
+  border: 5px, #d54d4d;
   text-align: center;
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-right: 100px;
 }
 
 .story {
   text-align: center;
   width: 800px;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-right: 100px;
   margin-top: 100px;
 }
