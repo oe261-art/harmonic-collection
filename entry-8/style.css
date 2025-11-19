@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&display=swap');
 
 .container {
-  background-color: #d54d4d;
+  background-color: #ca4747;
   padding-top: 5px;
   padding-bottom: 60px;
   height: 100px;
@@ -14,10 +14,10 @@
 
 body {
   margin: 50px; 
-  color: #d54d4d;
+  color: #ca4747;
   font-family: "EB Garamond", serif;
   font-size: 30px;
-  border: 5px solid #d54d4d;
+  border: 5px solid #ca4747;
   padding-bottom: 250px;
   
 }
@@ -25,12 +25,12 @@ body {
 .menu {
   width: 50%;
   margin: 0 auto;
-  border: 5px, #d54d4d;
+  border: 5px, #ca4747;
   text-align: center;
 }
 
 a {
-  color: #d54d4d;
+  color: #ca4747;
   text-decoration: none;
 }
 
