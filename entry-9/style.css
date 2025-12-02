@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&display=swap');
+
+.container {
+  background-color: rgb(215, 85, 85);
+  padding-top: 5px;
+  padding-bottom: 60px;
+  height: 100px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+body {
+  margin: 50px; 
+  color: rgb(215, 85, 85);
+  font-family: "EB Garamond", serif;
+  font-size: 30px;
+  border: 5px solid rgb(215, 85, 85);
+  padding-bottom: 250px;
+  
+}
+
+.menu {
+  width: 50%;
+  margin: 0 auto;
+  border: 5px, rgb(215, 85, 85);
+  text-align: center;
+}
+
+a {
+  color: rgb(215, 85, 85);
+  text-decoration: none;
+}
+
+ol {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+  gap: 55px;
+  
+}
