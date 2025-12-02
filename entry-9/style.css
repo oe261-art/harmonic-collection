@@ -14,10 +14,10 @@
 
 body {
   margin: 50px; 
-  color: rgb(215, 85, 85);
+  color: rgb(219, 91, 91);
   font-family: "EB Garamond", serif;
   font-size: 30px;
-  border: 5px solid rgb(215, 85, 85);
+  border: 5px solidrgb(219, 91, 91);
   padding-bottom: 250px;
   
 }
@@ -25,12 +25,12 @@ body {
 .menu {
   width: 50%;
   margin: 0 auto;
-  border: 5px, rgb(215, 85, 85);
+  border: 5px, rgb(219, 91, 91);
   text-align: center;
 }
 
 a {
-  color: rgb(215, 85, 85);
+  color: rgb(219, 91, 91);
   text-decoration: none;
 }
 
