@@ -3,16 +3,16 @@
 
 body {
   margin: 50px; 
-  color: rgb(215, 85, 85);
+  color: rgb(201, 78, 78);
   font-family: "EB Garamond", serif;
   font-size: 30px;
-  border: 5px solid rgb(215, 85, 85);
+  border: 5px solid rgb(201, 78, 78);
   padding-bottom: 1700px; 
 }
 
 
 .item {
-  background-color: rgb(215, 85, 85);
+  background-color: rgb(201, 78, 78);
   padding-top: 5px;
   padding-bottom: 60px;
   text-align: center;
@@ -24,7 +24,7 @@ body {
 .description {
   width: 800px;
   height: 200px;
-  border: 5px, rgb(192, 75, 75);
+  border: 5px,rgb(201, 78, 78);
   text-align: center;
   margin-top: 100px;
   margin-left: 200px;
