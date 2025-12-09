@@ -22,13 +22,11 @@ body {
 
 
 .description {
-  width: 800px;
-  height: 200px;
-  border: 5px,rgb(206, 79, 79);
   text-align: center;
+  width: 800px;
   margin-left: 250px;
-  margin-top: 100px;
   margin-right: 100px;
+  margin-top: 100px;
 }
 
 .story {
